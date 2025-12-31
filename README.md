@@ -25,20 +25,19 @@ This end-to-end analytics project uses Python, SQL, and Power BI and delivers a 
 - Columns: 13
 
 ### Key Columns
-## Column Name	    Description
-- customer_id	        Unique customer identifier
-- gender	            Customer gender
-- senior_citizen	    1 = Yes, 0 = No
-- tenure_months	        Customer tenure in months
-- internet_service	    Fiber / DSL / None
-- payment_method	    Credit Card / Debit Card / UPI / Cash
-- contract_type	        Month-to-Month / One Year / Two Year
-- monthly_charges	    Monthly billing amount
-- total_charges	        Total charges
-- online_security	    Yes / No
-- tech_support	        Yes / No
-- is_active	            Yes / No
-- churn	                Yes / No
+- customer_id ,	        Unique customer identifier
+- gender , 	            Customer gender
+- senior_citizen , 	    1 = Yes, 0 = No
+- tenure_months	,       Customer tenure in months
+- internet_service ,    Fiber / DSL / None
+- payment_method , 	    Credit Card / Debit Card / UPI / Cash
+- contract_type	,        Month-to-Month / One Year / Two Year
+- monthly_charges ,	    Monthly billing amount
+- total_charges	,       Total charges
+- online_security ,     Yes / No
+- tech_support ,        Yes / No
+- is_active	,           Yes / No
+- churn	,               Yes / No
 
 The dataset used in this project is synthetically generated to simulate fraud detection scenarios. It was created solely for analytical practice and dashboard development.
 
@@ -182,6 +181,6 @@ Month-to-month customers using Fiber internet, paying via UPI/Debit Card, and ha
 
 ## Author
 
-**Ashish Jadhav** 
-Aspiring Data Analyst, 
+**Ashish Jadhav** <br>
+Aspiring Data Analyst <br>
 Skills: Python | SQL | Power BI | Statistics | Data Visualization
